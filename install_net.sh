@@ -5,7 +5,7 @@ echo #####################################################################
 
 	sudo apt install -y linux-headers-$(uname -r) build-essential git binutils dkms
 
-	sudo bash
+	apt install git -y
 
 	cd /tmp
 
