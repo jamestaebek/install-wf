@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo #####################################################################
 echo # Inicio del script para instalar el controlador TPLINK TL_WN8200ND #
 echo #####################################################################
